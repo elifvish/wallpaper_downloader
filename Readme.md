@@ -10,4 +10,4 @@ Windows machine
 Linux machine    
 -> setup a cron job to run this application every 24 hours.  
 
-**Note : The file gets stored in same directory in which php script is in you can change the location if you want. **
+**Note : The file gets stored in same directory in which php script is in you can change the location if you want.**
